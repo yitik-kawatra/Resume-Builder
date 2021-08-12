@@ -1,7 +1,5 @@
 import React,{useEffect,useState} from "react";
-import update from 'immutability-helper';
 import { connect } from "react-redux";
-// import {bindActionCreators} from 'redux';
 import * as authActions from '../../actions/authActions';
 import { isLoaded } from 'react-redux-firebase'
 import { useHistory } from "react-router";

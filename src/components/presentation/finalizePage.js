@@ -61,7 +61,7 @@ import {useFirestore} from 'react-redux-firebase'
                 <p className="no-margin"  >
                  Save to Database
                 </p>
-                    <a style={{cursor:'pointer'}}  onClick={saveToDatabase}  >Save to Database</a>
+                    <a style={{cursor:'pointer'}}  onClick={saveToDatabase} >Save to Database</a>
              </div>
     </div>
     </div>

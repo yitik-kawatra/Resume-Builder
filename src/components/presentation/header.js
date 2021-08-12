@@ -32,7 +32,7 @@ const Header = (props) => {
   <header className="header">
   <nav className="nav">
       <a href="/" className="holder-logo">
-        <img className='logo' src={logo}></img>
+        <img className='logo' src={logo} alt=""></img>
       </a> 
         <div className="header-links full-height">
 
